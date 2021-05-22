@@ -1,0 +1,7 @@
+{
+  "name": "to-do-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LeandroSombra/to-do-api.git",
+  "license": "MIT"
+}
